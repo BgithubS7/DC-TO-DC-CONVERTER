@@ -51,7 +51,7 @@ This design uses a **boost converter topology**, which increases the input volta
 | Output Voltage | 24V DC |
 | Converter Type | Boost Converter |
 | Switching Method | PWM |
-| Target Efficiency | 80–95% |
+| Target Efficiency | 90–95% |
 | Output Regulation | Regulated DC Output |
 | Load Type | Resistive / DC Load |
 
